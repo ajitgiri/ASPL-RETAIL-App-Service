@@ -1,6 +1,9 @@
 # ASPL-RETAIL-App-Service
 This application used for Retails business like , stock/inventory management, billing, reporting and tracking etc end to end services
 
+# Github access new process:
+https://stackoverflow.com/questions/68775869/message-support-for-password-authentication-was-removed
+
 #=============== ------------------- =====================
 Date: 31-05-2025
 Created the repository in GitHub, then clone the repository to local
